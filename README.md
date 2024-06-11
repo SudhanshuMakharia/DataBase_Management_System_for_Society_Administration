@@ -52,3 +52,8 @@ The Society Administration System has several real-world applications:
   - View Residential Info: View a table of all residents and their information.
   - View Maintenance Due: View a table of residents with maintenance fees due.
   
+![Screenshot 2024-06-11 124820](https://github.com/SudhanshuMakharia/DataBase_Management_System_for_Society_Administration/assets/103626160/af437513-3e9f-4751-b5a5-61d61b423796)
+
+![Screenshot 2024-06-11 124834](https://github.com/SudhanshuMakharia/DataBase_Management_System_for_Society_Administration/assets/103626160/46c5a01e-d04e-44fa-abf7-0c9b7ee33cec)
+
+![Screenshot 2024-06-11 124846](https://github.com/SudhanshuMakharia/DataBase_Management_System_for_Society_Administration/assets/103626160/ad2d6c35-4d89-4fad-87ec-bc94b36efff5)
